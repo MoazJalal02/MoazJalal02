@@ -1,12 +1,14 @@
-## Hi there 👋
+## Hi there I'm Moaz Jalal👋
 
+- 🔭 I’m currently a first-year Software Engineering student at UTM
+- :globe_with_meridians: I'm a web developer who can use JS, TS, React, Next.JS to build websites! 
+- 🌱 I’m currently studying data structures and algorithms
+- ⚡ Fun fact: I like reading about history and playing chess! 
 <!--
 **MoazJalal02/MoazJalal02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
