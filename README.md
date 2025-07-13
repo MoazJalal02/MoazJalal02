@@ -2,14 +2,17 @@
 
 - 🔭 Second-year Software Engineering student at UTM
 - :globe_with_meridians: Web developer who can use JS, TS, React, Next.JS to build wonderful websites! 
-- ⚡ Fun fact: I like learning about history and playing chess!
+- 📚 Outside the Code: I like learning about history, playing chess, and basketball!
 
 ## Technical Skills
 
-- **Languages:** 🖥️ JavaScript, TypeScript, HTML/CSS, C++
+- **Languages:** 🖥️ JavaScript, TypeScript, HTML/CSS, C++, Java, PHP, SQL 
 - **Tools and Frameworks:** ⚙️ React, Node.js, Next.js, MongoDB, Figma
 
+## Contact 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaz-jalal-b761012a8/)
+📧 moazjalal@example.com
 <!--
 **MoazJalal02/MoazJalal02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
