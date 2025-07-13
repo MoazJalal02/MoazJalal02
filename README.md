@@ -11,7 +11,7 @@
 
 ## Contact 
 
-- **LinkedIn:** [![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white](https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/downloads/fg/brandg-business-linkedin-logo-dsk-v03.png/jcr:content/renditions/brandg-business-linkedin-logo-dsk-v03-2x.png))](https://www.linkedin.com/in/moaz-jalal-b761012a8/)  
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaz-jalal-b761012a8/)
 - **Email:** adilabdugadir@graduate.utm.my
 <!--
 **MoazJalal02/MoazJalal02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
