@@ -12,7 +12,7 @@
 ## Contact 
 
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaz-jalal-b761012a8/)
-- **Email:** adilabdugadir@graduate.utm.my
+- **Email:** moazadil02@gmail.com
 <!--
 **MoazJalal02/MoazJalal02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
