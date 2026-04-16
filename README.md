@@ -1,4 +1,4 @@
-## Hi there I'm Moaz Jalal👋
+## Hi there I'm Moaz Jalal!
 
 - 🔭 Third-year Software Engineering student at UTM
 - :globe_with_meridians: Web developer who can use JS, TS, React, Next.JS to build wonderful websites! 
