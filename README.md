@@ -6,8 +6,8 @@
 
 ## Technical Skills
 
-- **Languages:** 🖥️ JavaScript, TypeScript, HTML/CSS, C++, Java, PHP, SQL 
-- **Tools and Frameworks:** ⚙️ React, Node.js, Next.js, MongoDB, Figma
+- **Languages:** 🖥️ JavaScript, TypeScript, HTML/CSS, C++, Java, PHP, MySQL 
+- **Tools and Frameworks:** ⚙️ React, Node.js, Next.js, SpringBoot, MongoDB, Figma
 
 ## Contact 
 
