@@ -1,6 +1,6 @@
 ## Hi there I'm Moaz Jalal👋
 
-- 🔭 Second-year Software Engineering student at UTM
+- 🔭 Third-year Software Engineering student at UTM
 - :globe_with_meridians: Web developer who can use JS, TS, React, Next.JS to build wonderful websites! 
 - 📚 Far from Coding: I like learning about history, playing chess, and basketball!
 
