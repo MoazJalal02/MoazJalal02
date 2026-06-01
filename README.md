@@ -2,7 +2,7 @@
 
 - 🔭 Third-year Software Engineering student at UTM
 - :globe_with_meridians: Web developer who can use JS, TS, React, Next.JS to build wonderful websites! 
-- 📚 Far from Coding: I like learning about history, playing chess, and basketball!
+- 📚 Far from Coding: I like learning about history, and playing basketball!
 
 ## Technical Skills
 
